@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.usernavbar{
+    background-color: black;
+    padding: 7px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 80px;
+}

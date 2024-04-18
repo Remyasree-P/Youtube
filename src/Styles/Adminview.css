@@ -1,0 +1,21 @@
+.display{
+    height: 300px;
+    width: 300px;
+    box-shadow: 0px 0px 10px gray;
+    margin: 20px 0px;
+}
+.display h3{
+    display: inline;
+}
+.adminview{
+    padding: 20px 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+#des{
+    display: inline-block;
+    height: 40px;
+    overflow: hidden;
+}

@@ -1,0 +1,24 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+.adminnavbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: black;
+    padding: 0px 100px;
+}
+.adminnavbar img{
+    height: 100 px;
+    width: 100px;
+}
+.adminnavbar a{
+    font-size: 20px;
+    margin: 0px 10px;
+    text-decoration: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;   
+}
+
+

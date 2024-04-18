@@ -1,0 +1,34 @@
+.landingpage{
+    box-shadow: 0px 0px  10px grey;
+    background-color: aqua;
+    position: absolute;
+    top: 10%;
+    left: 26%;
+    height: 250px;
+    width: 400px;
+    text-align: center;
+}
+.landpage_sub{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.landpage_sub img{
+    height: 100px;
+    width: 120px;
+    border-radius: 50px;
+    justify-content: space-evenly;
+}
+.landpage_sub img{
+    height: 100px;
+    width: 120px;
+    border-radius: 50%;
+}
+.landpage_sub a{
+    color: black;
+    text-decoration: none;
+    transition: 0.4s;
+}
+.landpage_sub a:hover{
+    transform: scale(1.2);
+}

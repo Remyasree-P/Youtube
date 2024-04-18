@@ -1,0 +1,23 @@
+.display{
+    height: 500px;
+    width: 500px;
+    box-shadow: 0px 0px 10px grey;
+    margin: 20px 0px;
+    background-color: rgb(255, 0, 0);
+}
+.display h3{
+    display: inline;
+}
+.userview{
+    padding: 20px 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    background-color: rgb(226, 223, 43);
+}
+#des{
+    display: inline-block;
+    height: 40px;
+    overflow: hidden;
+}

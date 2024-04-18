@@ -1,0 +1,39 @@
+{
+  "Admin": [
+    {
+      "id": "48e1",
+      "name": "remya",
+      "dob": "2024-01-30",
+      "email": "remya@gmail.com",
+      "phone": "9207175992",
+      "password": "123mk"
+    }
+  ],
+  "video": [
+    {
+      "id": "3b2b",
+      "title": "Oswald the Octopus - Big Banana In English 720p HD",
+      "description": "heelo",
+      "views": "3000",
+      "likes": "2000",
+      "VideoUrl": "https://www.youtube.com/embed/cex_P-Ygf_c?si=c69fvM4-aWmd5HaE"
+    },
+    {
+      "id": "292b",
+      "title": "classmates",
+      "description": "movie",
+      "views": "1200000",
+      "likes": "20000",
+      "VideoUrl": "https://www.youtube.com/embed/xuQOJtrkiZU?si=u8hK5PczTpCMevTu"
+    },
+    {
+      "id": "61d5",
+      "title": "Tom & Jerry | Time for Some Exercise! 🕺🎾 | Classic Cartoon Compilation",
+      "description": "It's time to get up and move! Let's take a look at some fun sporty moments from Tom and Jerry to get inspiration to exercise! \n\nWB Kids is the home of all of your favorite clips featuring characters from the Looney Tunes, Scooby-Doo, Tom and Jerry and More!\n",
+      "views": "1234",
+      "likes": "123",
+      "VideoUrl": "https://www.youtube.com/embed/aLNC-J-KkIU?si=Nm0iK6g7qK5dNl_l"
+    }
+  ],
+  "User": []
+}

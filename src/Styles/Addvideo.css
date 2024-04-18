@@ -1,0 +1,17 @@
+.addvideo form{
+    height: 300px;
+    width: 350px;
+}
+.addvideo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+.addvideo input{
+    height: 26px;
+    width: 200px;
+    margin: 0px 20px;
+    border: 2px solid brown;
+}
+

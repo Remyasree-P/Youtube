@@ -1,0 +1,27 @@
+.userlogin{
+    /* background-color: blue; */
+    border: 2px solid black;
+    height: 300px;
+    width: 400px;
+    position: absolute;
+    top: 10%;
+    left: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ }
+ .userlogin input{
+ height: 30px;
+ width: 200px;
+ }
+ /* #signin{
+     /* text-indent: 100px; */
+     /* transform: translateX(); */
+ /* } */ 
+ .userlogin button{
+     background-color: blue;
+     font-size: 20px;
+     color: white;
+     padding: 3px;
+ 
+ }
